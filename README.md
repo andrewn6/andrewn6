@@ -1,11 +1,13 @@
-hey I'm Andrew.
+hey, I'm Andrew
 
-I've been writing code since 10, and since 12 I've done
-- First & youngest programmer at Frenter.com (Acquired) -- Built API integrations & did web development for construction telematics/marketplace platform.
-- Infrastructure Engineer at [Dimension](https://dimension.dev) (Backed by the GitHub co-founder, Antler), Wrote Rust & Go services to build container orchestration for an internal tool, ended up being pivoted to a customer-facing tool. Learnt a lot here.
-- Software Engineer at [UtopiaLabs](https://utopialabs.com) (Backed by Paradigm and Coinbase), Wrote TypeScript. Built offramps.eth, a system for sending USDC to an ENS address and receiving USD in a bank account.
+I'm currently working on automating supply-chain.
 
-I'm well-versed in Rust, Go, Python & distributed systems/infrastructure.
+On the side, I'm interested in ML, distributed & low-level systems.
 
-I am the youngest [ZFellow](https://zfellows.com) & [EV Grantee](https://www.mercatus.org/emergent-ventures)
+Currently learning about Verilog, FPGA's & learning how to write Zig.
 
+Previously
+- Dimension.dev -- Rust and Go, build internal container orchestrtation service.
+- UtopiaLabs.com -- TypeScript, built their off-ramp system for USDC -> ACH -- processed 500K in monthly transactions on the platform.
+
+Write alot of Go, Python, sometimes Rust.
